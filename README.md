@@ -26,3 +26,5 @@ IDЧата = "29:2b9b13504f134aebad59a25a7bdc1f98@thread.skype"; // айди к�
 ОтправитьСообщениеSkype(Токен, IDЧата, ТекстСообщения);
 ```
 ![2018-12-13_20-53-16](https://user-images.githubusercontent.com/2604430/49944711-0efb7200-ff26-11e8-987f-b909913d1275.png)
+
+![2019-04-01_18-00-12](https://github.com/kuzyara/TestSendSkypeMessage.epf/blob/master/2019-04-01_18-00-12.png?raw=true)
