@@ -29,4 +29,5 @@ IDЧата = "29:2b9b13504f134aebad59a25a7bdc1f98@thread.skype"; // айди к�
 
 ![2019-04-01_18-00-12](https://github.com/kuzyara/TestSendSkypeMessage.epf/blob/master/2019-04-01_18-00-12.png?raw=true)
 
+**Добавление бота в группу**
 [![Добавление бота в группу](https://img.youtube.com/vi/mT5Wd_BJJRw/0.jpg)](https://www.youtube.com/watch?v=mT5Wd_BJJRw)
